@@ -1,2 +1,0 @@
-# sickesGame
-Speckschlotziges Spiel
